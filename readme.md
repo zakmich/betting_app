@@ -6,3 +6,8 @@ To enhance the application's functionality, I plan to utilize an SQL database an
 
 - Allow administrators to effortlessly add upcoming matches for users to predict.
 - Enable users to register and submit their predictions through a convenient login interface.
+
+To run script in Node.js please install prompt-sync package
+
+```
+npm install readline-sync
