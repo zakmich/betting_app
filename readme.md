@@ -10,4 +10,4 @@ To enhance the application's functionality, I plan to utilize an SQL database an
 To run script in Node.js please install prompt-sync package
 
 ```
-npm install readline-sync
+npm install prompt-sync
